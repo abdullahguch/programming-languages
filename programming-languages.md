@@ -19,25 +19,24 @@
               |                 |                                          Emacs Lisp
       |------------|         BCPL (1966)         |                                |
       |            |             |               |                                |
-
-Smalltalk (1972) | B (1969) Ada (1980) Logo (1967)
-| | | |
-| | | | |-------------|
-| Objective-C C (1972) |--------|--------------| ML (1973) |
-| (1983) | | | | | |
-Ruby (1995) |-----------------| Objective-C C++ (1983) OCaml Haskell (1990)
-| | | | | |
-|---|---| Swift (2014) C with | Standard ML
-| | Classes Apple Swift (2014)  
-Python (1991) |  
- | Java (1995)  
- | |  
- | |------------|  
- | | |  
- Python 3 (2008) C# (2000) JavaScript (1995)  
- | |
-|----------|
-| |
-TypeScript ECMAScript
-(2012) |
-Node.js
+  Smalltalk (1972) |        B (1969)         Ada (1980)                    Logo (1967)
+      |            |             |               |
+      |            |             |               |                |-------------|
+      |       Objective-C   C (1972)     |--------|--------------|  ML (1973)   |
+      |         (1983)         |         |        |              |     |        |
+  Ruby (1995)  |-----------------|  Objective-C  C++ (1983)     OCaml  Haskell (1990)
+      |        |                 |       |                       |       |
+  |---|---| Swift (2014)     C with       |                    Standard ML
+  |       |                   Classes   Apple Swift (2014)  
+Python (1991)                     |                                  
+      |                      Java (1995)                      
+      |                          |                                   
+      |                   |------------|                              
+      |                   |            |                              
+   Python 3 (2008)     C# (2000)    JavaScript (1995)                     
+                             |        |
+                            |----------|
+                            |          |
+                        TypeScript  ECMAScript
+                           (2012)        |
+                                      Node.js
